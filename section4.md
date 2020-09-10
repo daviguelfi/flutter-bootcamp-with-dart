@@ -1,0 +1,1 @@
+* Como _emular_ o projeto em um dispositivo fisíco
