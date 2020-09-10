@@ -1,2 +1,1 @@
-### Criar um app com base do que foi feito na section 2 
-__colocar link dps__
+### Criar um app com base do que foi feito no [módulo 2](section2.md)

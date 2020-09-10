@@ -1,0 +1,1 @@
+## Magic 8 ball - Reforço no conhecimento com base no [módulo 7](section7.md)
