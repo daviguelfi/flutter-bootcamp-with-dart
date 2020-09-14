@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/bmi-calculator-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi-calculator-flutter/build" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/build" />
       <excludeFolder url="file://$MODULE_DIR$/i_am_poor/.pub" />
