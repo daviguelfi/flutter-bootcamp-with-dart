@@ -1,9 +1,11 @@
-## Clima - construir boas UI 
+## Clima - requests webs
 
-* Funções de navegação
-* Reaproveitamento de widgets
-* Passagem de parametros na navegação
-* Funções *final, const e map* em *dart*
-* Customizar o tema base da aplicação
+* Acessar gps e pedir permissão
+* *Future, async* e *await*
+* Ciclo de vida em *Stateful Widgets*
+* Integrar com *API* externa
+* Converter dados
+* Passar objetos com estado para outra tela
+
 
 Projeto - [Clima](../clima-flutter/)
